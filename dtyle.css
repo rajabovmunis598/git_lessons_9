@@ -19831,4 +19831,10 @@ a {
 
 a:hover {
   color: #35afbf;
+}
+
+.btn-secondary,
+.btn-primary:hover {
+  margin-top: -3px;
+  box-shadow: 0 0 7px rgb(185, 185, 185);
 }/*# sourceMappingURL=dtyle.css.map */
